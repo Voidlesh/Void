@@ -6,7 +6,7 @@ module.exports = {
   },
 
   Client: {
-    TOKEN: "ODc4MzQ5MzQ0NzM3MjIyNjk2.GgFdIH.xcj3p0Z6rmaW-KTLnpsgDS4W4zLT8eYzVFwt8Y", // YOUR BOT TOKEN. (USE THIS ONLY IN VSCODE)
-    ID: "878349344737222696", // YOUR BOT ID.
+    TOKEN: "", // YOUR BOT TOKEN. (USE THIS ONLY IN VSCODE)
+    ID: "", // YOUR BOT ID.
   },
 };
